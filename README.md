@@ -16,7 +16,7 @@
   <img align="center" alt="Vict-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vict-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Vict-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Vict-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/702630531472294083/1007052888935247942/DOG.jpg?width=590&height=590">
+  <img align="right" alt="Vict-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1007060897430241350/1007062075752853635/52j775lsqut71.jpg?width=1049&height=590">
 </div>
 
  ##
