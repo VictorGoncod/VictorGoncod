@@ -7,8 +7,8 @@
 <div align="center">
   <a href="https://github.com/VictorGoncod">
   
-  <img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGoncod&layout=compact&langs_count=9&theme=dracula"/>
-   <img width="45%" src="https://streak-stats.demolab.com/?user=VictorGoncod&theme=dracula">
+  <img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGoncod&layout=compact&langs_count=9&theme=blue-green"/>
+   <img width="45%" src="https://streak-stats.demolab.com/?user=VictorGoncod&theme=blue-green">
 </div>
  
 <div style="display: inline_block"><br>
